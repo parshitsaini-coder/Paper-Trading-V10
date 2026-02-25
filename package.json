@@ -1,0 +1,6 @@
+{
+  "name": "tradesim-angel-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TradeSim Pro — AngelOne SmartAPI proxy for live NSE prices"
+}

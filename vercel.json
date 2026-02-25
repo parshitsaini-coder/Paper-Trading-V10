@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "functions": {
+    "api/angel-proxy.js": {
+      "maxDuration": 30
+    }
+  }
+}
